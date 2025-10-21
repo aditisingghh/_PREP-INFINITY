@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+scikit-learn
+joblib
+pandas
+numpy
+python-multipart
+pdfplumber
+python-docx
+
+# uvicorn app:app --reload
